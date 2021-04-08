@@ -19,6 +19,7 @@ Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 
 ## RyycsTV only Commands
 
+**Commands - Description**
   - !spam x <word> - Spams <word> x-times
   - !chatterino - newst Chatterino version
   - !pyramid - Creates a 7 width <emotes> pyramid
