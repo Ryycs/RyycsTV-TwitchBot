@@ -5,9 +5,9 @@ Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 * DM [RyycsTV](https://www.twitch.tv/ryycstv) to get this bot.
 * Cooldown of Commands are high to prevent a shadowban.
 
-# Public Commands
-## Commands - Alias - Description - delay
+## Public Commands
 
+**Commands - Alias - Description - delay**
 - !ping - Ping Command - 2s
 - trihard - TriHard - 30s
 - alienpls - AlienPls - 30s
