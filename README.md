@@ -1,4 +1,4 @@
-# TwitchBot Commands:
+# TwitchBot RyycsTV:
 
 Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 
@@ -6,6 +6,18 @@ Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 * All Commands have a cooldown.
 
 ## Commands
-Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
+# Public Commands - Description - delay
 
-1. 
+!ping - Ping Command - 2s
+trihard - TriHard - 30s
+alienpls - AlienPls - 30s
+!logs - Logs from itzzdaavid, pagshake, henstrom - 20s
+test - Test successful - 5s - everyone
+!commands - Show this file - 10s
+!vanish - Timeout user for 1s
+
+# RyycsTV only Commands
+
+  !spam x <word> - Spams <word> x-times
+  !chatterino - newst Chatterino version
+  !pyramid - Creates a 7 width <emotes> pyramid
