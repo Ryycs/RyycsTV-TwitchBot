@@ -15,6 +15,7 @@ Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 - test - Test successful - 5s - everyone
 - !commands - Show this file - 10s
 - !vanish - Timeout user for 1s
+- !song - Shows recent spotify song
 
 ## RyycsTV only Commands
 
