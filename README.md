@@ -5,8 +5,8 @@ Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 * DM [RyycsTV](https://www.twitch.tv/ryycstv) to get this bot.
 * Cooldown of Commands are high to prevent a shadowban.
 
-## Commands
-# Public Commands - Description - delay
+# Commands
+## Public Commands - Description - delay
 
 - !ping - Ping Command - 2s
 - trihard - TriHard - 30s
@@ -16,7 +16,7 @@ Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 - !commands - Show this file - 10s
 - !vanish - Timeout user for 1s
 
-# RyycsTV only Commands
+## RyycsTV only Commands
 
   - !spam x <word> - Spams <word> x-times
   - !chatterino - newst Chatterino version
