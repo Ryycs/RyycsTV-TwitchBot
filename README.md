@@ -2,8 +2,8 @@
 
 Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 
-* DM [RyycsTV](https://www.twitch.tv/ryycstv) to get this bot
-* All Commands have a cooldown.
+* DM [RyycsTV](https://www.twitch.tv/ryycstv) to get this bot.
+* Cooldown of Commands are high to prevent a shadowban.
 
 ## Commands
 # Public Commands - Description - delay
