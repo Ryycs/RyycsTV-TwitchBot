@@ -12,7 +12,7 @@ Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 |!ping     |/      |Ping Command |3s     |
 |trihard   |/      |TriHard      |40s    |
 |alienpls  |/      |AlienPls     |40s    |
-|!logs     |/      |Logs from    |3s     |
+|!logs     |/      |Logs from Pagshake, Itzzdaavid & Henstrom |3s     |
 
 
 - trihard - TriHard - 30s
