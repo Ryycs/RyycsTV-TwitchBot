@@ -8,8 +8,13 @@ Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 ## Public Commands
 
 | Commands | Alias | Description | delay |
-|:-----------------:|--------------------:|
-|!ping|/|Ping Command|3s|
+|----------|:-----:|------------:|------:|
+|!ping     |/      |Ping Command |3s     |
+|trihard   |/      |TriHard      |40s    |
+|alienpls  |/      |AlienPls     |40s    |
+|!logs     |/      |Logs from    |3s     |
+
+
 - trihard - TriHard - 30s
 - alienpls - AlienPls - 30s
 - !logs - Logs from itzzdaavid, pagshake, henstrom - 20s
