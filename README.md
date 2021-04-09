@@ -14,19 +14,14 @@ Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 |!logs     |/      |Logs from Pagshake, Itzzdaavid & Henstrom |20s     |
 |alienpls  |/      |AlienPls     |40s    |
 |test      |/      |test successful|5s   |
-
-
-- trihard - TriHard - 30s
-- alienpls - AlienPls - 30s
-- !logs - Logs from itzzdaavid, pagshake, henstrom - 20s
-- test - Test successful - 5s - everyone
-- !commands - !help - Show this file - 10s
-- !vanish - !v- Timeout user for 1s
-- !song - !lied - Shows recent spotify song
+|!commands |!help  |Show this list|10s   |
+|!song     |!lied  |Show current spotify song|5s   |
 
 ## RyycsTV only Commands
 
-**Commands - Description**
-  - !spam x <word> - Spams <word> x-times
-  - !chatterino - newst Chatterino version
-  - !pyramid - Creates a 7 width <emotes> pyramid
+| Commands | Description |
+|----------|:-----------:|
+|!send <word> |send "<word>" in every channel  |
+|!spam x <word> |Spams "<word>" x-times  |
+|!pyramid       |Creates a 7 width <emote> pyramid  |
+|!chatterino |newst Chatterino version  |
