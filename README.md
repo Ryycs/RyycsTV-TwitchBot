@@ -7,8 +7,8 @@ Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 
 ## Public Commands
 
-| Commands | Alias | Description | delay |
-|:----------:|:-----------:|:-----------:|:------:|
+| Command  | Alias  | Description  | delay |
+|:-----------:|:-----------:|:------------:|:------:|
 |!ping     |/      |Ping Command |3s     |
 |trihard   |/      |TriHard      |40s    |
 |!logs     |/      |Logs from Pagshake, Itzzdaavid & Henstrom |20s     |
@@ -19,7 +19,7 @@ Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 
 ## RyycsTV only Commands
 
-| Commands | Description |
+| Command | Description |
 |----------|:-----------:|
 |!send <word> |send "<word>" in every channel  |
 |!spam x <word> |Spams "<word>" x-times  |
