@@ -12,7 +12,7 @@ Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 |!ping     |!botinfo     |pings you with uptime and latency |3s     |
 |trihard   |/      |TriHard      |40s    |
 |!logs     |/      |logs from Pagshake, Itzzdaavid & Henstrom |20s     |
-|alienpls  |/      |AlienPls     |40s    |
+|alienpls  |/      |AlienPls     |90s    |
 |test      |/      |test successful|5s   |
 |!commands |!help  |show this list|10s   |
 |!song     |!lied  |show current spotify song (DM me to get this feature)|5s   |
