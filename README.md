@@ -15,7 +15,7 @@ Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 |alienpls  |/      |AlienPls     |40s    |
 |test      |/      |test successful|5s   |
 |!commands |!help  |Show this list|10s   |
-|!song     |!lied  |Show current spotify song|5s   |
+|!song     |!lied  |Show current spotify song (DM to get this feature)|5s   |
 
 ## RyycsTV only Commands
 
