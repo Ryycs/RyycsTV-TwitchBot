@@ -9,7 +9,7 @@ Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 
 | Command  | Alias  | Description  | delay |
 |:-----------:|:-----------:|:------------:|:------:|
-|!ping     |!botinfo     |pings you with uptime and latency |3s     |
+|!ping     |!botinfo     |pings you with uptime and latency |5s     |
 |trihard   |/      |TriHard      |90s    |
 |!logs     |/      |logs from Pagshake, Itzzdaavid & Henstrom |20s     |
 |alienpls  |/      |AlienPls     |90s    |
