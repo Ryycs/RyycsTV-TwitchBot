@@ -21,7 +21,7 @@ Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 
 | Command | Description |
 |----------|:-----------:|
-|!send <word> |send "word" in every channel  |
-|!spam x <word> |spams "word" x-times  |
+|!send |send "word" in every channel  |
+|!spam |spams "word" x-times  |
 |!pyramid       |creates a 7 width <emote> pyramid  |
 |!chatterino |newst Chatterino version  |
