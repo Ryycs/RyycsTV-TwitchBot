@@ -24,4 +24,4 @@ Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 |!send |send "word" in every channel  |
 |!spam |spams "word" x-times  |
 |!pyramid       |creates a 7 width <emote> pyramid  |
-|!chatterino |newst Chatterino version  |
+|!chatterino |newest Chatterino version  |
