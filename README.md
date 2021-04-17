@@ -14,7 +14,7 @@ Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
 |!logs     |/      |logs from Pagshake, Itzzdaavid & Henstrom |20s     |
 |alienpls  |/      |AlienPls     |90s    |
 |test      |/      |test successful|5s   |
-|!commands |!help  |show this list|10s   |
+|!botcommands |!help  |show this list|10s   |
 |!song     |!lied  |show current spotify song (DM me to get this feature)|5s   |
 
 ## RyycsTV only Commands
