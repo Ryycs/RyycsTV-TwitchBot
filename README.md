@@ -1,9 +1,9 @@
 # TwitchBot RyycsTV:
 
-Commands for TwitchBot [RyycsTV](https://www.twitch.tv/ryycstv)
-
-* DM [RyycsTV](https://www.twitch.tv/ryycstv) to get this bot.
-* Cooldown of Commands are high to prevent a shadowban.
+## Contact me here:
+* Twitch: [RyycsTV](https://www.twitch.tv/ryycstv)
+* Twitter: [RyycsTV](https://twitter.com/ryycstv)
+* Discord: ['Ryycs#9999](discord.com/users/444940928797638676)
 
 ## Public Commands
 
