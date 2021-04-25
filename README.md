@@ -3,7 +3,7 @@
 ## Contact me here:
 * Twitch: [RyycsTV](https://www.twitch.tv/ryycstv)
 * Twitter: [RyycsTV](https://twitter.com/ryycstv)
-* Discord: ['Ryycs#9999](discord.com/users/444940928797638676)
+* Discord: ['Ryycs#9999](https://discordapp.com/users/444940928797638676/)
 
 ## Public Commands
 
