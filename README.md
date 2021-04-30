@@ -23,5 +23,5 @@
 |----------|:-----------:|
 |!send |send "word" in every channel  |
 |!spam |spams "word" x-times  |
-|!pyramid <amount> <emote> |creates a <amount> width <emote> pyramid  |
+|!pyramid \<amount> \<emote> |creates a \<amount> width \<emote> pyramid  |
 |!chatterino |newest Chatterino version  |
