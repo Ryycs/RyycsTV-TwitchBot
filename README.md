@@ -21,19 +21,18 @@
 
 | Command | Description |
 |----------|:-----------:|
-
-|!join \<channel>| Bot joins the chat of \<channel>|
-|!leave \<channel>| Bot leaves the chat of \<channel>|
-|!addignorechannel \<channel|Add a channel to the ignore List of public commands|
-|!delignorechannel \<channel>|Remove a channel from the ignore List of public commands|
-|!addtimeoutchannel \<channel> |Bot will timeout bad words in this channel|
-|!deltimeoutchannel \<channel | Bot will no longer timeout bad words in this channel|
-|!timeoutcommands | Show if timeoutcommands are enabled or not|
-|!timeoutcommands on/off | Enable/disable timeoutcommands|
-|!channels | List of all channels in which the bot is|
-|!ignoredchannels | List of all channels that are excluded from the public commands
-|!timeoutchannels | List of all channels where the bot timeout for bad words|
-|!chatterino |newest Chatterino version  |
-|!pyramid \<amount> \<emote> |creates a \<amount> width \<emote> pyramid  |
-|!trihard | ascii of TriHard|
-|!send |send "word" in every channel  |
+|!join \<channel>| Bot joins the chat of \<channel> |
+|!leave \<channel>| Bot leaves the chat of \<channel> |
+|!addignorechannel \<channel | Add a channel to the ignore List of public commands |
+|!delignorechannel \<channel> | Remove a channel from the ignore List of public commands |
+|!addtimeoutchannel \<channel> | Bot will timeout bad words in this channel |
+|!deltimeoutchannel \<channel | Bot will no longer timeout bad words in this channel |
+|!timeoutcommands | Show if timeoutcommands are enabled or not |
+|!timeoutcommands on/off | Enable/disable timeoutcommands |
+|!channels | List of all channels in which the bot is |
+|!ignoredchannels | List of all channels that are excluded from the public commands |
+|!timeoutchannels | List of all channels where the bot timeout for bad words |
+|!chatterino | newest Chatterino version |
+|!pyramid \<amount> \<emote> |creates a \<amount> width \<emote> pyramid |
+|!trihard | ascii of TriHard |
+|!send |send "word" in every channel |
